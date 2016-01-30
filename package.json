@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "nightmare": "^2.1.4",
+    "vo": "^1.0.3"
+  }
+}
